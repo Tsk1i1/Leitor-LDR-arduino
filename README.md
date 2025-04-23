@@ -70,3 +70,17 @@ Ajuste `511` e `1016` para os valores mínimo e máximo obtidos em seu ambiente.
 
 ## Simulação do Código
 Simule esse projeto em https://wokwi.com/projects/428549570699854849
+
+## Colaboradores
+
+- Cesar Aaron Herrera
+- Kaue Soares Madarazzo
+- Rafael Seiji Aoke Arakaki
+- Rafael Yuji Nakaya
+- Nicolas Mendes dos Santos
+
+## Agradecimentos
+
+- Professor Fabio Henrique Cabrini  (Disciplina: Edge Computing and Computer Systems, FIAP)
+
+> **Observação:** Este projeto foi desenvolvido como parte da atividade da disciplina *Edge Computing and Computer Systems* na FIAP.
