@@ -61,3 +61,6 @@ Ajuste `511` e `1016` para os valores mínimo e máximo obtidos em seu ambiente.
 
 - **setup()**: Configura pinos, inicializa LCD, cria caracteres personalizados e exibe tela de boas-vindas.
 - **loop()**: Lê valor da LDR, calcula porcentagem de luminosidade, atualiza o LCD e aciona LEDs/buzzer conforme o nível.
+
+## Simulação do Código
+Simule esse projeto em https://wokwi.com/projects/428549570699854849
