@@ -32,6 +32,12 @@ Este projeto utiliza um Arduino, um sensor LDR, um display LCD, LEDs coloridos e
 
 > **Obs.** Conecte resistores de 220 Ω em série com cada LED e no sensor conforme necessário.
 
+## Instalação de Software
+
+1. Instale a [IDE do Arduino](https://www.arduino.cc/en/software).
+2. Instale a biblioteca `LiquidCrystal` (já incluída na IDE padrão).
+3. Copie o arquivo `ldr_monitor.ino` para a pasta de sketches do Arduino.
+4. Selecione a placa correta em **Ferramentas > Placa** e a porta serial em **Ferramentas > Porta**.
 ## Uso
 
 1. Abra o sketch `leitor_ldr.ino` na IDE do Arduino.
