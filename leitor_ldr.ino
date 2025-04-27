@@ -1,8 +1,8 @@
 //Biblioteca LCD
 #include <LiquidCrystal.h>
 
-// Inicializa o display LCD: (RS, E, D4, D5, D6, D7, backlight)
-LiquidCrystal lcd(7, 6, 5, 4, 3, 2, 1);
+// Inicializa o display LCD: (RS, E, D4, D5, D6, D7)
+LiquidCrystal lcd(7, 6, 5, 4, 3, 2);
 
 // Declara as portas do Arduino
 int Lerluz = A0;
