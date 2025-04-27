@@ -28,7 +28,6 @@ Este projeto utiliza um Arduino, um sensor LDR, um display LCD, LEDs coloridos e
 | LCD D5           | 4              |
 | LCD D6           | 3              |
 | LCD D7           | 2              |
-| LCD Backlight    | 1              |
 
 > **Obs.** Conecte resistores de 220 Ω em série com cada LED e no sensor conforme necessário.
 
@@ -69,7 +68,7 @@ Ajuste `511` e `1016` para os valores mínimo e máximo obtidos em seu ambiente.
 - **loop()**: Lê valor da LDR, calcula porcentagem de luminosidade, atualiza o LCD e aciona LEDs/buzzer conforme o nível.
 
 ## Simulação do Código
-Simule esse projeto em https://wokwi.com/projects/428549570699854849
+Simule esse projeto em https://wokwi.com/projects/429429972984377345
 
 ## Colaboradores
 
